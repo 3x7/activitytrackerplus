@@ -1,0 +1,1 @@
+Version 2.0 - Major version - Important UI changes. - 18th April 2010
